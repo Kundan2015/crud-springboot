@@ -127,7 +127,7 @@
 			<properties>
 				<adminServerProtocol>http</adminServerProtocol>
 				<adminServerPort>8080</adminServerPort>
-				<adminServerHostName>10.119.116.89</adminServerHostName>
+				<adminServerHostName>10.119.53.137</adminServerHostName>
 				<userId>dev</userId>
 				<userPassword>dev</userPassword>
 			</properties>
@@ -137,7 +137,7 @@
 			<properties>
 				<adminServerProtocol>http</adminServerProtocol>
 				<adminServerPort>8001</adminServerPort>
-				<adminServerHostName>10.119.116.89</adminServerHostName>
+				<adminServerHostName>10.119.53.137</adminServerHostName>
 				<userId>test</userId>
 				<userPassword>test</userPassword>
 			</properties>
@@ -147,7 +147,7 @@
 			<properties>
 				<adminServerProtocol>http</adminServerProtocol>
 				<adminServerPort>8080</adminServerPort>
-				<adminServerHostName>10.119.116.89</adminServerHostName>
+				<adminServerHostName>10.119.53.137</adminServerHostName>
 				<userId>prod</userId>
 				<userPassword>prod</userPassword>
 			</properties>
